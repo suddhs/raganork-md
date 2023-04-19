@@ -17,9 +17,9 @@
 <div>
   <br>
 
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+## _[Koyeb: How to deploy](https://https://github.com/suddhs/raganork-md/wiki/Deploying-with-Koyeb)_
 
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+## _[Basic usage helper](https://https://github.com/suddhs/raganork-md/wiki/Raganork-Documentation)_
 
 <div align="left">
 
